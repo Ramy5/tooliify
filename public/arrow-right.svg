@@ -1,0 +1,13 @@
+<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="vuesax/linear/arrow-right">
+<g id="arrow-right">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M15.4603 5.39967C15.1674 5.10678 14.6926 5.10678 14.3997 5.39967C14.1068 5.69256 14.1068 6.16744 14.3997 6.46033L19.1893 11.25H4C3.58579 11.25 3.25 11.5858 3.25 12C3.25 12.4142 3.58579 12.75 4 12.75H19.1893L14.3997 17.5397C14.1068 17.8326 14.1068 18.3074 14.3997 18.6003C14.6926 18.8932 15.1674 18.8932 15.4603 18.6003L21.5303 12.5303C21.671 12.3897 21.75 12.1989 21.75 12C21.75 11.8011 21.671 11.6103 21.5303 11.4697L15.4603 5.39967Z" fill="url(#paint0_linear_5_51)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5_51" x1="9.5" y1="13" x2="21" y2="14.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E5F74"/>
+<stop offset="1" stop-color="#961062"/>
+</linearGradient>
+</defs>
+</svg>

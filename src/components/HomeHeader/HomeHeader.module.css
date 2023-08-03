@@ -1,0 +1,66 @@
+.header {
+  height: 855px;
+  padding: 2rem 4rem;
+  background: linear-gradient(
+      143deg,
+      rgba(150, 16, 98, 0.55) 0%,
+      rgba(14, 95, 116, 0.55) 100%
+    ),
+    url("/tooliify-home.png"), lightgray 0px -75.654px / 100% 109.159% no-repeat;
+  background-size: cover;
+}
+
+/* HEADER HEAD */
+.header__head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+  z-index: 100;
+}
+/* HEADER HEAD */
+
+/* HEADER BODY */
+.header__body {
+  margin-top: 5rem;
+  padding: 2rem 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 8rem 3rem 12rem;
+}
+.header__text {
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+  color: #fff;
+  font-size: 3rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 111%; /* 4.20688rem */
+  letter-spacing: 0.03788rem;
+  position: relative;
+  z-index: 10;
+}
+.header__text p {
+  margin: 1.1rem 0;
+}
+.header__text p:first-of-type {
+  text-transform: uppercase;
+}
+.header__text p:nth-of-type(2),
+.header__text p:last-of-type {
+  font-size: 2.9rem;
+  font-weight: 600;
+  letter-spacing: 0.03163rem;
+}
+.header .header__btn {
+  grid-column: 1 /2;
+  grid-row: 3 /4;
+  align-self: baseline;
+  justify-self: flex-start;
+  margin-left: 0;
+}
+.header .header__btn span {
+  display: flex;
+  align-items: center;
+}
+/* HEADER BODY */
